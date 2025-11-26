@@ -1,0 +1,15 @@
+SET(SOURCES ui_Screen1.c
+    ui_Screen2.c
+    ui_Screen3.c
+    ui_Screen4.c
+    ui.c
+    ui_comp_hook.c
+    ui_helpers.c
+    ui_img_2126295058.c
+    ui_img_1694772545.c
+    ui_img_1994032800.c
+    ui_img_1881266704.c
+    ui_img_1694766395.c
+    ui_img_1694767418.c)
+
+add_library(ui ${SOURCES})
