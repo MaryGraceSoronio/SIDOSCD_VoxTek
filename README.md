@@ -3,8 +3,7 @@
 # Smart Industrial Drying Oven Simulated Control Dashboard
 Simulates and controls industrial drying oven via modern RT-Thread HMI dashboard with auto/manual modes, adjustable temperature and drying time, real-time safety/door status, notifications, input simulation, touch interface, codebase expandable for physical sensors, network integration, data visualization, remote access.
 
-### by: VoxTek_SIDOSCD
-
+### by: BEROY, HASSAN, LUPOZ, SORONIO
 ## Overview
 
 This repository provides a complete simulation of an industrial drying oven interface using the RT-Thread HMI board. The project features automatic and manual modes, real-time status, safety notifications, and a modern dashboard UI for experimenting with temperature, time, and lock logic. Originally designed for simulation, the platform is extensible for real hardware integration.
@@ -15,10 +14,6 @@ This repository provides a complete simulation of an industrial drying oven inte
   ```bash
   git clone https://github.com/yourusername/drying-oven-simulator.git
   ```
-- Download and install [RT-Thread Studio](https://www.rt-thread.io/studio.html).
-- Download and install [SquareLine Studio](https://squareline.io/downloads) for GUI screen asset creation.
-- Prepare the RT-Thread HMI board and a USB Type-C cable.
-
 ## 2. Creating and Importing the Project
 
 ### 2.1 Create a New Project in RT-Thread Studio
