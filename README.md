@@ -1,6 +1,6 @@
 ### All primary project files and the stable codebase are maintained in the `master` branch. Make sure to switch to that branch when cloning or pulling.
 
-# Smart Industrial Drying Oven Simulated Control Dashboard Using RT-Thread HMI-Board
+# Smart Industrial Drying Oven Simulated Control Dashboard
 Simulates and controls industrial drying oven via modern RT-Thread HMI dashboard with auto/manual modes, adjustable temperature and drying time, real-time safety/door status, notifications, input simulation, touch interface, codebase expandable for physical sensors, network integration, data visualization, remote access.
 
 ### by: VoxTek_SIDOSCD
